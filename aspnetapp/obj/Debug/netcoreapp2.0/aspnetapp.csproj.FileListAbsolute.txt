@@ -1,0 +1,16 @@
+/Users/ramwelmendoza/Desktop/aspnetapp/bin/Debug/netcoreapp2.0/appsettings.Development.json
+/Users/ramwelmendoza/Desktop/aspnetapp/bin/Debug/netcoreapp2.0/appsettings.json
+/Users/ramwelmendoza/Desktop/aspnetapp/bin/Debug/netcoreapp2.0/bower.json
+/Users/ramwelmendoza/Desktop/aspnetapp/bin/Debug/netcoreapp2.0/bundleconfig.json
+/Users/ramwelmendoza/Desktop/aspnetapp/bin/Debug/netcoreapp2.0/aspnetapp.deps.json
+/Users/ramwelmendoza/Desktop/aspnetapp/bin/Debug/netcoreapp2.0/aspnetapp.runtimeconfig.json
+/Users/ramwelmendoza/Desktop/aspnetapp/bin/Debug/netcoreapp2.0/aspnetapp.runtimeconfig.dev.json
+/Users/ramwelmendoza/Desktop/aspnetapp/bin/Debug/netcoreapp2.0/aspnetapp.dll
+/Users/ramwelmendoza/Desktop/aspnetapp/bin/Debug/netcoreapp2.0/aspnetapp.pdb
+/Users/ramwelmendoza/Desktop/aspnetapp/obj/Debug/netcoreapp2.0/aspnetapp.csprojAssemblyReference.cache
+/Users/ramwelmendoza/Desktop/aspnetapp/obj/Debug/netcoreapp2.0/aspnetapp.AssemblyInfoInputs.cache
+/Users/ramwelmendoza/Desktop/aspnetapp/obj/Debug/netcoreapp2.0/aspnetapp.AssemblyInfo.cs
+/Users/ramwelmendoza/Desktop/aspnetapp/obj/Debug/netcoreapp2.0/aspnetapp.csproj.CoreCompileInputs.cache
+/Users/ramwelmendoza/Desktop/aspnetapp/obj/Debug/netcoreapp2.0/aspnetapp.dll
+/Users/ramwelmendoza/Desktop/aspnetapp/obj/Debug/netcoreapp2.0/aspnetapp.pdb
+/Users/ramwelmendoza/Desktop/aspnetapp/obj/Debug/netcoreapp2.0/aspnetapp.genruntimeconfig.cache
